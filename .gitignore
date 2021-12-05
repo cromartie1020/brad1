@@ -1,0 +1,7 @@
+env/
+*.pyc
+.vscode
+.vscode
+pip_selfcheck.json
+pyven.cfg
+db.sqlite3
